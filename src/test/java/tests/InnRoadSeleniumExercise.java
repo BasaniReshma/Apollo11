@@ -43,6 +43,7 @@ public class InnRoadSeleniumExercise extends BaseReusable {
 			lp.getLogin().click();
 			
 			
+			
 			InnroadHomePage hp=new InnroadHomePage(driver);
 			hp.NavigatetoInventory().click();
 			hp.NavigatetoRatesGrid().click();
