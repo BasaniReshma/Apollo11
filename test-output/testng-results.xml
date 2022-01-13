@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-12T15:48:58Z" name="Default suite" finished-at="2022-01-12T15:49:42Z" duration-ms="43903">
+    <groups>
+    </groups>
+    <test started-at="2022-01-12T15:48:58Z" name="Default test" finished-at="2022-01-12T15:49:42Z" duration-ms="43903">
+      <class name="tests.InnRoadSeleniumExercise">
+        <test-method signature="BaseReusableNavigation()[pri:0, instance:tests.InnRoadSeleniumExercise@5082d622]" started-at="2022-01-12T15:48:59Z" name="BaseReusableNavigation" finished-at="2022-01-12T15:49:42Z" duration-ms="43853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BaseReusableNavigation -->
+      </class> <!-- tests.InnRoadSeleniumExercise -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
